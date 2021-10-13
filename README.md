@@ -61,19 +61,19 @@ contract:
 
 in Ganache, we got some changes:
 
-account balance:
+1-account balance:
 
 ![image](https://user-images.githubusercontent.com/69525078/137116508-b7aa56d0-4220-43a8-95ea-1911eea6bb4c.png)
 
-contract balance:
+2-contract balance:
 
 ![image](https://user-images.githubusercontent.com/69525078/137116558-d7f179f9-824b-4af4-a485-acbb8d420131.png)
 
-blocs:
+3-blocs:
 
 ![image](https://user-images.githubusercontent.com/69525078/137116687-635ed6e8-9ed6-4649-b2f5-a8ba9656ac29.png)
 
-transactions:
+4-transactions:
 
 ![image](https://user-images.githubusercontent.com/69525078/137116741-59f84aea-b90b-4e3d-a107-560fae1402fd.png)
 
